@@ -44,7 +44,7 @@ A snap-open capsule with a deliberately weakened seam.
 - Breakaway seam is tuned for FDM printing
 - Designed to print **12-up** efficiently
 - Color swaps encouraged — contents can be encoded by filament
-- Scales cleanly (200%+ works well for dry mixes)
+- Scales cleanly (250%+ works well for dry mixes)
 
 ⚠️ Not a toy. Small parts. Choking hazard. Keep out of reach of children.
 
@@ -72,7 +72,7 @@ A plastic recipe plaque originally conceived to survive:
 > **add 1 egg, 1 tbl oil, H₂O ¼ c q.s.**
 
 Designed to be:
-- printed at **200%**
+- printed at **250%**
 - wrapped in parchment paper
 - packed inside Hangover Fight Club capsules
 

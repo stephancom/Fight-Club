@@ -1,9 +1,9 @@
 //
 // Fight club pancakes
-// v1.0
+// v1.1
 //
 // Open source design by stephan.com
-// mix and bag with parchment paper wrap and insert in hangover fight club at 200%
+// mix and bag with parchment paper wrap and insert in hangover fight club at 250%
 //
 // — stephan / Cheruborg
 //
