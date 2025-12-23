@@ -117,6 +117,24 @@ All changes are intentional. Credit where credit is due.
 
 ---
 
+## Suomi (Sisu)
+
+**Sinivalkoinen suomalaisille — sisua ja turnauskestävyyttä.**
+
+Tämä ei ole lelu.  
+Tämä ei ole kertakäyttöinen.  
+
+Suunniteltu kestämään:
+- kosteutta  
+- kuumuutta  
+- höyryä  
+- aikaa  
+
+Tulosta. Käytä. Riko tarvittaessa.  
+Jos saat sen auki, olet valmis siihen, mitä sisällä on.
+
+---
+
 ## License
 
 Open source.  
