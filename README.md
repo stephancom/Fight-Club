@@ -115,6 +115,8 @@ This remix was rebuilt in OpenSCAD with:
 
 All changes are intentional. Credit where credit is due.
 
+Inspiration and encouragement from CarlyD and cinnamon flower.
+
 ---
 
 ## Suomi (Sisu)
