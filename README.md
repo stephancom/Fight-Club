@@ -98,6 +98,25 @@ All designs are parametric OpenSCAD and easy to modify.
 
 ---
 
+## Lineage & Attribution
+
+**Hangover Fight Club: 2IB5** is a remix derived from:
+
+- **Fight Club Soap** by **Brassee**  
+  https://www.thingiverse.com/thing:4656165
+
+The original soap STL provided the conceptual seed and overall form factor.
+
+This remix was rebuilt in OpenSCAD with:
+- new geometry
+- a parametric breakaway seam
+- revised proportions
+- non-soap intent (kits, inserts, batching, dry goods)
+
+All changes are intentional. Credit where credit is due.
+
+---
+
 ## License
 
 Open source.  
