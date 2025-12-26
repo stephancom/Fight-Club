@@ -14,28 +14,26 @@
   \     |     |     |     |
    \____|_____|\__,_|_____|
 ```
-# Hangover Fight Club: 2IB5  
+# Hangover Fight Club: 2IB  
 ## + Fight Club Pancakes
 
 Small, durable, 3D-printable objects for New Year’s Eve, the morning after, and anyone who understands preparation.
 
 This repository contains two related designs:
 
-- **Hangover Fight Club: 2IB5** — a breakaway capsule for small “kits”
+- **Hangover Fight Club: 2IB** — a breakaway capsule for small “kits”
 - **Fight Club Pancakes** — a plastic recipe plaque designed to be packed inside
 
 Both are open source. Both are meant to be printed, used, and remixed.
 
 ---
 
-## Hangover Fight Club: 2IB5
+## Hangover Fight Club: 2IB
 
 A snap-open capsule with a deliberately weakened seam.
 
 ### Default concept
-- Holds **2 ibuprofen**
-- **1 Benadryl**
-- **5-HTP**
+- Holds **2 ibuprofen** + **1 Benadryl**
 - Or peas, rice, candy, confetti, or nothing at all
 
 > If you’re strong enough to open it, you’re strong enough for what’s inside.
@@ -44,7 +42,7 @@ A snap-open capsule with a deliberately weakened seam.
 - Breakaway seam is tuned for FDM printing
 - Designed to print **12-up** efficiently
 - Color swaps encouraged — contents can be encoded by filament
-- Scales cleanly (250%+ works well for dry mixes)
+- Scales cleanly (note: if inserting plastic bag, use parchment paper to prevent hot end from melting bag)
 
 ⚠️ Not a toy. Small parts. Choking hazard. Keep out of reach of children.
 
@@ -91,7 +89,7 @@ Designed to be:
 
 ## Files
 
-- `new years fight club 2ib5.scad / .stl`
+- `new years fight club 2ib.scad / .stl`
 - `fight club pancakes.scad / .stl`
 
 All designs are parametric OpenSCAD and easy to modify.
@@ -100,7 +98,7 @@ All designs are parametric OpenSCAD and easy to modify.
 
 ## Lineage & Attribution
 
-**Hangover Fight Club: 2IB5** is a remix derived from:
+**Hangover Fight Club: 2IB** is a remix derived from:
 
 - **Fight Club Soap** by **Brassee**  
   https://www.thingiverse.com/thing:4656165
