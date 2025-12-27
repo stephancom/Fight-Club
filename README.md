@@ -15,7 +15,7 @@
    \____|_____|\__,_|_____|
 ```
 # Hangover Fight Club: 2IB  
-## + Fight Club Pancakes
+## MSCHF. MYHM. PNCKS.
 
 Small, durable, 3D-printable objects for New Year’s Eve, the morning after, and anyone who understands preparation.
 
@@ -55,24 +55,6 @@ A plastic recipe plaque originally conceived to survive:
 - grease
 - steam
 - New York cockroaches
-
-### Printed recipe (dry mix only)
-
-- salt  
-- flour  
-- sugar  
-- baking soda  
-- baking powder  
-- milk powder  
-
-### Footer incantation (printed)
-
-> **add 1 egg, 1 tbl oil, H₂O ¼ c q.s.**
-
-Designed to be:
-- printed at **250%**
-- wrapped in parchment paper
-- packed inside Hangover Fight Club capsules
 
 ---
 
