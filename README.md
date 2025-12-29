@@ -58,6 +58,19 @@ A plastic recipe plaque originally conceived to survive:
 
 ---
 
+## Inserts & Pause-and-Insert Notes
+
+At 200% scale, a 2″ × 3″ poly bag (~2 mil) comfortably holds ~1 oz of dry material.
+
+Important:
+- Always wrap poly bags in parchment paper before insertion
+- This prevents hot-end airflow and radiant heat from softening or collapsing the bag
+- Insert during a planned pause; resume normally
+
+Heavier inserts (beans, screws, coins) improve hand feel and reduce skittering.
+
+---
+
 ## Printing Notes
 
 - PLA works fine; PETG is great
