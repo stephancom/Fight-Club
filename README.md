@@ -17,7 +17,9 @@
 # Hangover Fight Club: 2IB  
 ## MSCHF. MYHM. PNCKS.
 
-Small, durable, 3D-printable objects for New Year’s Eve, the morning after, and anyone who understands preparation.
+<img src="fight-club-hero.jpg" alt="Hangover Fight Club: 2IB" align="right" width="420" />
+
+Small, durable, 3D-printable objects for late nights, rough mornings, and anyone who understands preparation.”
 
 This repository contains two related designs:
 
@@ -84,7 +86,7 @@ Heavier inserts (beans, screws, coins) improve hand feel and reduce skittering.
 
 ## Files
 
-- `new years fight club 2ib.scad / .stl`
+- `fight club.scad / .stl`
 - `fight club pancakes.scad / .stl`
 
 All designs are parametric OpenSCAD and easy to modify.
